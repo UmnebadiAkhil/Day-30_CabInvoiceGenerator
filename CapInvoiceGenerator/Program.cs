@@ -15,6 +15,12 @@ namespace CabInvoiceGenerator
 
             Console.WriteLine(fare);
 
+            InvoiceGenerator invoiceGenerator1 = new InvoiceGenerator(RideType.PREMIUM);
+
+            double fare1 = invoiceGenerator.CalculateFare(2.0, 5);
+
+            Console.WriteLine(fare1);
+
         }
     }
 }

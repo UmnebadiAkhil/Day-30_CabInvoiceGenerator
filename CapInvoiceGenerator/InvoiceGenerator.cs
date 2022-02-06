@@ -39,10 +39,10 @@ namespace CapInvoiceGenerator
             catch (CabInvoiceException)
             {
                 throw new CabInvoiceException(CabInvoiceException.ExceptionType.INVALID_RIDE_TYPE, "Invalid Ride");
-            }
+             }
         }
 
-        public double CalculateFare(double distance, int time)
+        public  double CalculateFare(double distance,int time)
         {
             double totalFare = 0;
             try
@@ -52,7 +52,7 @@ namespace CapInvoiceGenerator
             }
             catch (CabInvoiceException)
             {
-                if (rideType.Equals(null))
+                if(rideType.Equals(null))
                 {
                     throw new CabInvoiceException(CabInvoiceException.ExceptionType.INVALID_RIDE_TYPE, "Invalid Ride");
                 }
@@ -68,7 +68,7 @@ namespace CapInvoiceGenerator
             }
 
             return Math.Max(totalFare, MINIMUM_FARE);
-
+            
         }
 
         public InvoiceSummary CalculateFare(Ride[] rides)
@@ -76,14 +76,14 @@ namespace CapInvoiceGenerator
             double totalFare = 0;
             try
             {
-                foreach (Ride ride in rides)
+                foreach(Ride ride in rides)
                 {
                     totalFare += this.CalculateFare(ride.distance, ride.time);
                 }
             }
-            catch (CabInvoiceException)
+            catch(CabInvoiceException)
             {
-                if (rides == null)
+                if(rides==null)
                 {
                     throw new CabInvoiceException(CabInvoiceException.ExceptionType.NULL_RIDES, "Rides are null");
 
