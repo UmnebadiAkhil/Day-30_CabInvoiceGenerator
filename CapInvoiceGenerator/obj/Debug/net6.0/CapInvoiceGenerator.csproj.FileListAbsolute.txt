@@ -1,0 +1,15 @@
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\CapInvoiceGenerator\bin\Debug\net6.0\CapInvoiceGenerator.exe
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\CapInvoiceGenerator\bin\Debug\net6.0\CapInvoiceGenerator.deps.json
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\CapInvoiceGenerator\bin\Debug\net6.0\CapInvoiceGenerator.runtimeconfig.json
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\CapInvoiceGenerator\bin\Debug\net6.0\CapInvoiceGenerator.dll
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\CapInvoiceGenerator\bin\Debug\net6.0\ref\CapInvoiceGenerator.dll
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\CapInvoiceGenerator\bin\Debug\net6.0\CapInvoiceGenerator.pdb
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\CapInvoiceGenerator\obj\Debug\net6.0\CapInvoiceGenerator.csproj.AssemblyReference.cache
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\CapInvoiceGenerator\obj\Debug\net6.0\CapInvoiceGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\CapInvoiceGenerator\obj\Debug\net6.0\CapInvoiceGenerator.AssemblyInfoInputs.cache
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\CapInvoiceGenerator\obj\Debug\net6.0\CapInvoiceGenerator.AssemblyInfo.cs
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\CapInvoiceGenerator\obj\Debug\net6.0\CapInvoiceGenerator.csproj.CoreCompileInputs.cache
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\CapInvoiceGenerator\obj\Debug\net6.0\CapInvoiceGenerator.dll
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\CapInvoiceGenerator\obj\Debug\net6.0\ref\CapInvoiceGenerator.dll
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\CapInvoiceGenerator\obj\Debug\net6.0\CapInvoiceGenerator.pdb
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\CapInvoiceGenerator\obj\Debug\net6.0\CapInvoiceGenerator.genruntimeconfig.cache

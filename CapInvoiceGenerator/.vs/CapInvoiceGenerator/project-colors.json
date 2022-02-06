@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "aea20e93-e856-4e58-b9d6-e72c6f53cd44": {
+      "ProjectGuid": "aea20e93-e856-4e58-b9d6-e72c6f53cd44",
+      "DisplayName": "CapInvoiceGenerator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
